@@ -1,0 +1,28 @@
+IAMASTUDENTSXXX
+
+I = 0
+A = 1
+M = 2
+A = 3
+S = 4
+T = 5
+U = 6
+D = 7
+E = 8 
+N = 9
+T = 10
+S = 11
+X = 12
+X = 13
+X = 14
+
+
+ITT
+AUS
+MDX
+AEX
+SNX
+
+
+
+
