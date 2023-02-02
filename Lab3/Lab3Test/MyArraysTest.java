@@ -15,8 +15,8 @@ class MyArraysTest {
         values[4] = 56;
 
 
-        int result = MyArrays.insert(values, 5,6,2);
-        assertEquals(6, result );
+        int result = MyArrays.insert(values, 5,4,2);
+        assertEquals(6, result);
 //        System.out.println(MyArrays.insert(intarray,2,1,2));
     }
 }
