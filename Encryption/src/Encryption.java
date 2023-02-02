@@ -41,16 +41,15 @@ public class Encryption {
         char[] chrArr = plaintext.replaceAll(" ", "").toUpperCase().toCharArray();
         StringBuilder ciperText = new StringBuilder();
 
-        for(char chr : chrArr){
+        for(char chr : chrArr){//for each character
             if(!(chr == ' ')) ciperText.append(((char) (chr + shift)));
             else ciperText.append(' ');
         }
 
         return ciperText.toString();
-
-
-
 //        return null;
     }
+
+
 
 }
